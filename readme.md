@@ -8,9 +8,9 @@ security risk for users, unaware of giving their information to the website.
 
 ## Google Chrome behaviour
 
-Here's the demo in action on the Google Chrome Browser:
+Here's the in action on the Google Chrome Browser:
 
-![Autofill Demo](autofill-demo.gif)
+![Autofill ](autofill-.gif)
 
 ## Other browsers
 
